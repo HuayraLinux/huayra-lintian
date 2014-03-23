@@ -1,0 +1,16 @@
+Check-Script: tests-generales
+Author: Mauro Lizaur <mauro@sdf.org>
+Abbrev: htg
+Type: binary, source
+Needs-Info: debfiles
+Info: Verifica que los .deb en Huayra esten en condiciones.
+
+Tag: changelog-menciona-nmu
+Severity: normal
+Certainty: certain
+Info: Huayra no maneja NMU dado que todos los desarrolladores pueden
+ empaquetar cualquier aplicacion por lo tanto no hay mantenedores
+ oficiales de ciertos paquetes.
+ .
+ Trabaja en conjunto (?) con el tag changelog-should-mention-nmu.
+Ref: no-applies.
