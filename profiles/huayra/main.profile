@@ -20,4 +20,5 @@ Disable-Tags: changelog-should-mention-nmu,
  desktop-command-not-in-package,
  desktop-entry-invalid-category,
  extended-description-is-probably-too-short,
- desktop-entry-lacks-keywords-entry
+ desktop-entry-lacks-keywords-entry,
+ new-package-should-close-itp-bug
